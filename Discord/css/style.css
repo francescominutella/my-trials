@@ -1,0 +1,14 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root
+{
+  --ds-dark: #22272b;
+  --ds-primary: #8ea0e0;
+  --ds-light: #f7f7f6;
+  --ds-lighter: white;
+}
